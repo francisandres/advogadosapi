@@ -1,0 +1,14 @@
+C:\Users\franc\source\repos\AdvogadosAPI\AdvogadosAPI\bin\Debug\netcoreapp2.2\AdvogadosAPI.deps.json
+C:\Users\franc\source\repos\AdvogadosAPI\AdvogadosAPI\bin\Debug\netcoreapp2.2\AdvogadosAPI.runtimeconfig.json
+C:\Users\franc\source\repos\AdvogadosAPI\AdvogadosAPI\bin\Debug\netcoreapp2.2\AdvogadosAPI.runtimeconfig.dev.json
+C:\Users\franc\source\repos\AdvogadosAPI\AdvogadosAPI\bin\Debug\netcoreapp2.2\AdvogadosAPI.dll
+C:\Users\franc\source\repos\AdvogadosAPI\AdvogadosAPI\obj\Debug\netcoreapp2.2\AdvogadosAPI.csprojAssemblyReference.cache
+C:\Users\franc\source\repos\AdvogadosAPI\AdvogadosAPI\obj\Debug\netcoreapp2.2\AdvogadosAPI.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\AdvogadosAPI\AdvogadosAPI\obj\Debug\netcoreapp2.2\AdvogadosAPI.RazorAssemblyInfo.cache
+C:\Users\franc\source\repos\AdvogadosAPI\AdvogadosAPI\obj\Debug\netcoreapp2.2\AdvogadosAPI.RazorAssemblyInfo.cs
+C:\Users\franc\source\repos\AdvogadosAPI\AdvogadosAPI\obj\Debug\netcoreapp2.2\AdvogadosAPI.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\AdvogadosAPI\AdvogadosAPI\obj\Debug\netcoreapp2.2\AdvogadosAPI.AssemblyInfo.cs
+C:\Users\franc\source\repos\AdvogadosAPI\AdvogadosAPI\obj\Debug\netcoreapp2.2\AdvogadosAPI.RazorTargetAssemblyInfo.cache
+C:\Users\franc\source\repos\AdvogadosAPI\AdvogadosAPI\bin\Debug\netcoreapp2.2\AdvogadosAPI.pdb
+C:\Users\franc\source\repos\AdvogadosAPI\AdvogadosAPI\obj\Debug\netcoreapp2.2\AdvogadosAPI.dll
+C:\Users\franc\source\repos\AdvogadosAPI\AdvogadosAPI\obj\Debug\netcoreapp2.2\AdvogadosAPI.pdb
